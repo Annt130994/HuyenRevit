@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+		<AddIn Type="Application">
+		<Name>Kuro App</Name>
+		<Assembly>.\KuroRevit\KuroRevit.dll</Assembly>
+		<AddInId>EDEC01E9-5F60-48F8-A06C-6FDEF939134E</AddInId>
+		<FullClassName>Kuro.Revit.App</FullClassName>
+		<VendorId>Huyen</VendorId>
+		<VendorDescription>huyen, huyenntt@kidohu.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
